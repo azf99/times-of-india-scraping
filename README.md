@@ -2,7 +2,7 @@
 Code to scrape news articles from the website of the newspaper Times of India
 
 # Setup:
-pip3 install newspaper3k bs4 tqdm
+pip3 install bs4 tqdm
 
 # Steps:
 1. Go to "https://timesofindia.indiatimes.com/" and search for your desired topic.
